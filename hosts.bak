@@ -1,0 +1,21 @@
+﻿127.0.0.1              activate.navicat.com
+127.0.0.1  www.xmind.com
+127.0.0.1  xmind.com
+127.0.0.1  www.xmind.net
+127.0.0.1  xmind.net
+127.0.0.1  *.emtec.com
+127.0.0.1 transact.netsarang.com
+127.0.0.1 update.netsarang.com
+127.0.0.1 www.netsarang.com
+127.0.0.1 www.netsarang.co.kr
+127.0.0.1 sales.netsarang.com
+127.0.0.1 licensing.ultraedit.com
+127.0.0.1 licensing2.ultraedit.com
+127.0.0.1 activate.southrivertech.com
+# Added by Docker Desktop
+192.168.8.104 host.docker.internal
+192.168.8.104 gateway.docker.internal
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+# End of section
+192.168.118.200 www.yitsai.com
